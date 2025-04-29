@@ -24,7 +24,7 @@ class DataIngestion:
         try:
             # Read from source
             df = pd.read_csv(
-                '/home/dk/code_base/ml_projects/ds-project/notebook/survey-dataset.csv'
+                '/home/dk/code_base/ml_projects/ds-project/notebook/student-survey.csv'
                 )
             
             # Create artifact dir

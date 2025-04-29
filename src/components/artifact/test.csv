@@ -1,42 +1,42 @@
-Age,Gender,Income(₹),Status,Qualification,Score,Internship,Exp-month-salary(INR ),Job-confidence,Job-security,Skill-set-scale,Updated-LinkedIn,Certification,Job-platforms-freq,Market-awareness,Automation-impact,Work-mode,Curriculum-use,Job-search-time-weekly,Motivation,Switch-domain,Relocate
-23-27,Male,"Above ₹20,00,000",Currently studying,Bachelor's degree,9.6,yes,40000,Neutral,4,Yes,No,No,Monthly,Somewhat,Not sure,On-site,3,1–5 hours,Work-life balance,Yes,"Yes, Within my country"
-18-22,Male,"Less than ₹2,50,000",Currently studying,Bachelor's degree,82.83%,No,50000,Confident,4,Yes,No,No,Rarely,Yes,Not sure,On-site,4,Less than 1 hour,Growth potential,No,"Yes, Within my country"
-18-22,Female,"Less than ₹2,50,000",Currently studying,Bachelor's degree,86%,yes,20000,Confident,5,Yes,yes,No,Daily,Somewhat,Positively,Remote,3,Less than 1 hour,Work-life balance,Yes,"Yes, Within my country"
-Above 32,Female,"₹5,00,000–₹10,00,000",Working professional,Master's degree,75,yes,700000,Very confident,1,Yes,No,No,Rarely,Yes,No impact,Hybrid,3,Less than 1 hour,Work-life balance,Maybe,No
-28-32,Male,"₹5,00,000–₹10,00,000",Currently studying,Bachelor's degree,75%,yes,35000,Neutral,3,Maybe,yes,No,Rarely,Somewhat,Negatively,Hybrid,2,Less than 1 hour,Work-life balance,Yes,"Yes, anywhere"
-Above 32,Female,"₹5,00,000–₹10,00,000",Working professional,Bachelor's degree,First Class,yes,50000,Confident,1,Yes,No,No,Rarely,Yes,No impact,On-site,4,Less than 1 hour,Work-life balance,No,"Yes, anywhere"
-18-22,Female,"₹2,50,000–₹5,00,000",Currently studying,Bachelor's degree,"9,8",yes,40000,Confident,2,Yes,yes,No,Rarely,Somewhat,Not sure,Hybrid,4,Less than 1 hour,Job security,No,"Yes, Within my country"
-28-32,Male,"Less than ₹2,50,000",Currently studying,Bachelor's degree,87,yes,200000,Neutral,3,Yes,No,No,Rarely,Somewhat,Not sure,On-site,3,5–10 hours,Learning opportunities,Maybe,"Yes, Within my country"
-18-22,Female,"₹2,50,000–₹5,00,000",Currently studying,Bachelor's degree,82%,No,10000,Not confident,5,Maybe,No,No,Never,Yes,Not sure,On-site,3,Less than 1 hour,Work-life balance,Yes,No
-18-22,Male,"₹10,00,000–₹20,00,000",Working professional,Bachelor's degree,8,No,0,Very unconfident,1,Yes,yes,No,Rarely,Yes,No impact,Remote,1,Less than 1 hour,Work-life balance,No,No
-23-27,Male,"₹5,00,000–₹10,00,000",Working professional,Master's degree,9.2,yes,50000,Confident,3,Yes,yes,No,Weekly,Somewhat,Negatively,Hybrid,2,Less than 1 hour,Work-life balance,Maybe,No
-23-27,Male,"₹5,00,000–₹10,00,000",Working professional,Bachelor's degree,93,No,35000,Confident,1,Yes,yes,Yes,Weekly,Yes,Not sure,Hybrid,2,Less than 1 hour,High salary,Yes,No
-18-22,Female,"Less than ₹2,50,000",Currently studying,High school,49,No,30000,Confident,3,Yes,yes,Yes,Rarely,Somewhat,Positively,Hybrid,3,Less than 1 hour,High salary,No,"Yes, anywhere"
-23-27,Male,"₹2,50,000–₹5,00,000",Working professional,Bachelor's degree,B,yes,40000,Very confident,5,Yes,No,No,Rarely,Somewhat,Positively,Remote,5,Less than 1 hour,High salary,No,"Yes, anywhere"
-18-22,Male,"₹5,00,000–₹10,00,000",Unemployed,Bachelor's degree,72,No,12000,Not confident,4,Maybe,No,No,Rarely,No,Positively,Hybrid,3,Less than 1 hour,Growth potential,Yes,"Yes, anywhere"
-Under 18,Male,"Less than ₹2,50,000",Currently studying,High school,Good,yes,50000,Not confident,3,Maybe,No,Yes,Never,Yes,Positively,On-site,4,Less than 1 hour,Learning opportunities,Yes,"Yes, Within my country"
-23-27,Male,"₹10,00,000–₹20,00,000",Unemployed,Master's degree,64,yes,25000,Confident,3,Yes,yes,No,Weekly,Somewhat,Positively,Hybrid,3,1–5 hours,Learning opportunities,Maybe,"Yes, anywhere"
-18-22,Male,"₹2,50,000–₹5,00,000",Currently studying,Bachelor's degree,7.5,yes,30000,Confident,4,Maybe,yes,Yes,Weekly,Somewhat,Positively,Hybrid,1,Less than 1 hour,Growth potential,Maybe,"Yes, anywhere"
-18-22,Female,"₹2,50,000–₹5,00,000",Currently studying,Bachelor's degree,8.5,No,50000,Very confident,3,Yes,No,Yes,Rarely,Somewhat,Positively,Hybrid,3,Less than 1 hour,Growth potential,Maybe,"Yes, anywhere"
-18-22,Male,"Less than ₹2,50,000",Currently studying,High school,52.6,No,50000,Confident,5,Yes,No,Yes,Rarely,No,Positively,Remote,1,Less than 1 hour,Job security,Maybe,"Yes, Within my country"
-23-27,Male,"Less than ₹2,50,000",Working professional,Bachelor's degree,79%,yes,25000,Very confident,2,Yes,yes,Yes,Weekly,Yes,Positively,Hybrid,2,Less than 1 hour,Learning opportunities,Yes,"Yes, anywhere"
-18-22,Male,"₹2,50,000–₹5,00,000",Working professional,High school,65,yes,40000,Confident,5,Maybe,No,No,Never,Somewhat,Not sure,Remote,4,5–10 hours,Job security,Maybe,"Yes, anywhere"
-28-32,Male,"₹2,50,000–₹5,00,000",Working professional,Bachelor's degree,60,No,100000,Neutral,4,Maybe,No,Yes,Never,Somewhat,Positively,On-site,3,Less than 1 hour,Learning opportunities,Maybe,"Yes, anywhere"
-18-22,Male,"₹5,00,000–₹10,00,000",Working professional,Bachelor's degree,8.9,yes,45000,Very confident,1,Yes,yes,No,Weekly,Yes,Positively,Hybrid,3,Less than 1 hour,High salary,Maybe,No
-18-22,Male,"₹2,50,000–₹5,00,000",Currently studying,Bachelor's degree,8.05,yes,25000,Confident,3,Maybe,yes,No,Weekly,Somewhat,Positively,Remote,3,1–5 hours,Growth potential,Yes,"Yes, Within my country"
-23-27,Male,"Less than ₹2,50,000",Unemployed,Bachelor's degree,6.9,No,20000,Not confident,3,Maybe,yes,No,Weekly,Somewhat,Not sure,On-site,3,More than 10 hours,Growth potential,No,"Yes, anywhere"
-18-22,Female,"₹5,00,000–₹10,00,000",Unemployed,Bachelor's degree,6.72,yes,30000,Neutral,5,Maybe,No,Yes,Rarely,Somewhat,Positively,Hybrid,3,Less than 1 hour,Job security,Yes,"Yes, Within my country"
-23-27,Male,"Less than ₹2,50,000",Currently studying,Bachelor's degree,63%,yes,25000,Very confident,5,Yes,No,No,Never,Somewhat,Positively,On-site,3,Less than 1 hour,Growth potential,Maybe,"Yes, anywhere"
-18-22,Male,"Above ₹20,00,000",Working professional,Bachelor's degree,91,No,50000,Neutral,3,Yes,yes,Yes,Weekly,Somewhat,Positively,Hybrid,3,Less than 1 hour,Growth potential,Yes,"Yes, anywhere"
-28-32,Female,"₹10,00,000–₹20,00,000",Working professional,Master's degree,80%,yes,65000,Very confident,2,Maybe,yes,No,Weekly,Somewhat,Positively,Hybrid,4,1–5 hours,High salary,Maybe,"Yes, anywhere"
-23-27,Male,"Less than ₹2,50,000",Currently studying,Bachelor's degree,70,No,60000,Very confident,4,Yes,No,No,Never,No,Positively,On-site,3,Less than 1 hour,High salary,No,"Yes, anywhere"
-18-22,Female,"₹5,00,000–₹10,00,000",Working professional,Bachelor's degree,AA,No,35000,Confident,2,Yes,No,Yes,Rarely,Somewhat,Positively,Remote,1,Less than 1 hour,Learning opportunities,Yes,"Yes, anywhere"
-23-27,Female,"Less than ₹2,50,000",Working professional,Bachelor's degree,58,yes,14000,Confident,5,Maybe,No,Yes,Never,Somewhat,Positively,Remote,4,1–5 hours,Learning opportunities,Maybe,"Yes, Within my country"
-18-22,Male,"₹2,50,000–₹5,00,000",Currently studying,High school,8.99,yes,300000,Confident,4,Maybe,No,No,Never,Somewhat,Positively,On-site,4,1–5 hours,Growth potential,No,"Yes, anywhere"
-23-27,Male,"Above ₹20,00,000",Working professional,Ph. D.,90,No,0,Very confident,1,Yes,No,No,Never,No,Not sure,On-site,1,Less than 1 hour,Growth potential,No,No
-28-32,Male,"Less than ₹2,50,000",Unemployed,High school,78,yes,45000,Very confident,1,Yes,yes,Yes,Rarely,Yes,Positively,On-site,1,Less than 1 hour,Learning opportunities,No,"Yes, anywhere"
-18-22,Female,"₹5,00,000–₹10,00,000",Currently studying,Bachelor's degree,9.54,yes,5000,Confident,5,Maybe,yes,No,Rarely,Yes,Negatively,On-site,3,1–5 hours,Work-life balance,No,No
-18-22,Female,"Less than ₹2,50,000",Working professional,Bachelor's degree,9.65,No,20000,Very confident,1,Yes,No,Yes,Weekly,Yes,Positively,Hybrid,4,Less than 1 hour,High salary,Yes,"Yes, anywhere"
-18-22,Female,"₹2,50,000–₹5,00,000",Working professional,Bachelor's degree,Dk,No,0,Neutral,2,Maybe,No,No,Monthly,Somewhat,Positively,Hybrid,2,Less than 1 hour,Learning opportunities,Yes,"Yes, anywhere"
-18-22,Male,"Less than ₹2,50,000",Currently studying,Bachelor's degree,6.5 CGPA,yes,80000,Confident,5,No,yes,No,Rarely,Yes,Not sure,On-site,5,Less than 1 hour,High salary,Maybe,"Yes, Within my country"
-23-27,Female,"₹2,50,000–₹5,00,000",Currently studying,Bachelor's degree,7,yes,50000,Neutral,5,Maybe,No,No,Never,Somewhat,Not sure,On-site,1,1–5 hours,Work-life balance,Yes,No
+Unnamed: 0,Age,Gender,Income(₹),Status,Qualification,Score,Internship,Exp-month-salary(INR ),Job-confidence,Job-security,Skill-set-scale,Updated-LinkedIn,Certification,Job-platforms-freq,Market-awareness,Automation-impact,Work-mode,Curriculum-use,Job-search-time-weekly,Motivation,Switch-domain,Relocate
+95,23-27,Male,"Above ₹20,00,000",Currently studying,Bachelor's degree,9.6,yes,40000,Neutral,4,Yes,No,No,Monthly,Somewhat,Not sure,On-site,3,1–5 hours,Work-life balance,Yes,"Yes, Within my country"
+15,18-22,Male,"Less than ₹2,50,000",Currently studying,Bachelor's degree,8.28,No,50000,Confident,4,Yes,No,No,Rarely,Yes,Not sure,On-site,4,Less than 1 hour,Growth potential,No,"Yes, Within my country"
+30,18-22,Female,"Less than ₹2,50,000",Currently studying,Bachelor's degree,8.6,yes,20000,Confident,5,Yes,yes,No,Daily,Somewhat,Positively,Remote,3,Less than 1 hour,Work-life balance,Yes,"Yes, Within my country"
+158,Above 32,Female,"₹5,00,000–₹10,00,000",Working professional,Master's degree,7.5,yes,700000,Very confident,1,Yes,No,No,Rarely,Yes,No impact,Hybrid,3,Less than 1 hour,Work-life balance,Maybe,No
+128,28-32,Male,"₹5,00,000–₹10,00,000",Currently studying,Bachelor's degree,7.5,yes,35000,Neutral,3,Maybe,yes,No,Rarely,Somewhat,Negatively,Hybrid,2,Less than 1 hour,Work-life balance,Yes,"Yes, anywhere"
+115,Above 32,Female,"₹5,00,000–₹10,00,000",Working professional,Bachelor's degree,7.84,yes,50000,Confident,1,Yes,No,No,Rarely,Yes,No impact,On-site,4,Less than 1 hour,Work-life balance,No,"Yes, anywhere"
+69,18-22,Female,"₹2,50,000–₹5,00,000",Currently studying,Bachelor's degree,9.0,yes,40000,Confident,2,Yes,yes,No,Rarely,Somewhat,Not sure,Hybrid,4,Less than 1 hour,Job security,No,"Yes, Within my country"
+171,28-32,Male,"Less than ₹2,50,000",Currently studying,Bachelor's degree,8.7,yes,200000,Neutral,3,Yes,No,No,Rarely,Somewhat,Not sure,On-site,3,5–10 hours,Learning opportunities,Maybe,"Yes, Within my country"
+175,18-22,Female,"₹2,50,000–₹5,00,000",Currently studying,Bachelor's degree,8.2,No,10000,Not confident,5,Maybe,No,No,Never,Yes,Not sure,On-site,3,Less than 1 hour,Work-life balance,Yes,No
+45,18-22,Male,"₹10,00,000–₹20,00,000",Working professional,Bachelor's degree,8.0,No,0,Very unconfident,1,Yes,yes,No,Rarely,Yes,No impact,Remote,1,Less than 1 hour,Work-life balance,No,No
+66,23-27,Male,"₹5,00,000–₹10,00,000",Working professional,Master's degree,9.2,yes,50000,Confident,3,Yes,yes,No,Weekly,Somewhat,Negatively,Hybrid,2,Less than 1 hour,Work-life balance,Maybe,No
+183,23-27,Male,"₹5,00,000–₹10,00,000",Working professional,Bachelor's degree,9.3,No,35000,Confident,1,Yes,yes,Yes,Weekly,Yes,Not sure,Hybrid,2,Less than 1 hour,High salary,Yes,No
+165,18-22,Female,"Less than ₹2,50,000",Currently studying,High school,4.9,No,30000,Confident,3,Yes,yes,Yes,Rarely,Somewhat,Positively,Hybrid,3,Less than 1 hour,High salary,No,"Yes, anywhere"
+78,23-27,Male,"₹2,50,000–₹5,00,000",Working professional,Bachelor's degree,7.84,yes,40000,Very confident,5,Yes,No,No,Rarely,Somewhat,Positively,Remote,5,Less than 1 hour,High salary,No,"Yes, anywhere"
+187,18-22,Male,"₹5,00,000–₹10,00,000",Unemployed,Bachelor's degree,7.2,No,12000,Not confident,4,Maybe,No,No,Rarely,No,Positively,Hybrid,3,Less than 1 hour,Growth potential,Yes,"Yes, anywhere"
+178,Under 18,Male,"Less than ₹2,50,000",Currently studying,High school,7.84,yes,50000,Not confident,3,Maybe,No,Yes,Never,Yes,Positively,On-site,4,Less than 1 hour,Learning opportunities,Yes,"Yes, Within my country"
+56,23-27,Male,"₹10,00,000–₹20,00,000",Unemployed,Master's degree,6.4,yes,25000,Confident,3,Yes,yes,No,Weekly,Somewhat,Positively,Hybrid,3,1–5 hours,Learning opportunities,Maybe,"Yes, anywhere"
+152,18-22,Male,"₹2,50,000–₹5,00,000",Currently studying,Bachelor's degree,7.5,yes,30000,Confident,4,Maybe,yes,Yes,Weekly,Somewhat,Positively,Hybrid,1,Less than 1 hour,Growth potential,Maybe,"Yes, anywhere"
+82,18-22,Female,"₹2,50,000–₹5,00,000",Currently studying,Bachelor's degree,8.5,No,50000,Very confident,3,Yes,No,Yes,Rarely,Somewhat,Positively,Hybrid,3,Less than 1 hour,Growth potential,Maybe,"Yes, anywhere"
+68,18-22,Male,"Less than ₹2,50,000",Currently studying,High school,5.26,No,50000,Confident,5,Yes,No,Yes,Rarely,No,Positively,Remote,1,Less than 1 hour,Job security,Maybe,"Yes, Within my country"
+124,23-27,Male,"Less than ₹2,50,000",Working professional,Bachelor's degree,7.9,yes,25000,Very confident,2,Yes,yes,Yes,Weekly,Yes,Positively,Hybrid,2,Less than 1 hour,Learning opportunities,Yes,"Yes, anywhere"
+16,18-22,Male,"₹2,50,000–₹5,00,000",Working professional,High school,6.5,yes,40000,Confident,5,Maybe,No,No,Never,Somewhat,Not sure,Remote,4,5–10 hours,Job security,Maybe,"Yes, anywhere"
+148,28-32,Male,"₹2,50,000–₹5,00,000",Working professional,Bachelor's degree,6.0,No,100000,Neutral,4,Maybe,No,Yes,Never,Somewhat,Positively,On-site,3,Less than 1 hour,Learning opportunities,Maybe,"Yes, anywhere"
+93,18-22,Male,"₹5,00,000–₹10,00,000",Working professional,Bachelor's degree,8.9,yes,45000,Very confident,1,Yes,yes,No,Weekly,Yes,Positively,Hybrid,3,Less than 1 hour,High salary,Maybe,No
+65,18-22,Male,"₹2,50,000–₹5,00,000",Currently studying,Bachelor's degree,8.05,yes,25000,Confident,3,Maybe,yes,No,Weekly,Somewhat,Positively,Remote,3,1–5 hours,Growth potential,Yes,"Yes, Within my country"
+60,23-27,Male,"Less than ₹2,50,000",Unemployed,Bachelor's degree,6.9,No,20000,Not confident,3,Maybe,yes,No,Weekly,Somewhat,Not sure,On-site,3,More than 10 hours,Growth potential,No,"Yes, anywhere"
+84,18-22,Female,"₹5,00,000–₹10,00,000",Unemployed,Bachelor's degree,6.72,yes,30000,Neutral,5,Maybe,No,Yes,Rarely,Somewhat,Positively,Hybrid,3,Less than 1 hour,Job security,Yes,"Yes, Within my country"
+67,23-27,Male,"Less than ₹2,50,000",Currently studying,Bachelor's degree,6.3,yes,25000,Very confident,5,Yes,No,No,Never,Somewhat,Positively,On-site,3,Less than 1 hour,Growth potential,Maybe,"Yes, anywhere"
+125,18-22,Male,"Above ₹20,00,000",Working professional,Bachelor's degree,9.1,No,50000,Neutral,3,Yes,yes,Yes,Weekly,Somewhat,Positively,Hybrid,3,Less than 1 hour,Growth potential,Yes,"Yes, anywhere"
+132,28-32,Female,"₹10,00,000–₹20,00,000",Working professional,Master's degree,8.0,yes,65000,Very confident,2,Maybe,yes,No,Weekly,Somewhat,Positively,Hybrid,4,1–5 hours,High salary,Maybe,"Yes, anywhere"
+9,23-27,Male,"Less than ₹2,50,000",Currently studying,Bachelor's degree,7.0,No,60000,Very confident,4,Yes,No,No,Never,No,Positively,On-site,3,Less than 1 hour,High salary,No,"Yes, anywhere"
+18,18-22,Female,"₹5,00,000–₹10,00,000",Working professional,Bachelor's degree,7.84,No,35000,Confident,2,Yes,No,Yes,Rarely,Somewhat,Positively,Remote,1,Less than 1 hour,Learning opportunities,Yes,"Yes, anywhere"
+55,23-27,Female,"Less than ₹2,50,000",Working professional,Bachelor's degree,5.8,yes,14000,Confident,5,Maybe,No,Yes,Never,Somewhat,Positively,Remote,4,1–5 hours,Learning opportunities,Maybe,"Yes, Within my country"
+75,18-22,Male,"₹2,50,000–₹5,00,000",Currently studying,High school,8.99,yes,300000,Confident,4,Maybe,No,No,Never,Somewhat,Positively,On-site,4,1–5 hours,Growth potential,No,"Yes, anywhere"
+150,23-27,Male,"Above ₹20,00,000",Working professional,Ph. D.,9.0,No,0,Very confident,1,Yes,No,No,Never,No,Not sure,On-site,1,Less than 1 hour,Growth potential,No,No
+104,28-32,Male,"Less than ₹2,50,000",Unemployed,High school,7.8,yes,45000,Very confident,1,Yes,yes,Yes,Rarely,Yes,Positively,On-site,1,Less than 1 hour,Learning opportunities,No,"Yes, anywhere"
+135,18-22,Female,"₹5,00,000–₹10,00,000",Currently studying,Bachelor's degree,9.54,yes,5000,Confident,5,Maybe,yes,No,Rarely,Yes,Negatively,On-site,3,1–5 hours,Work-life balance,No,No
+137,18-22,Female,"Less than ₹2,50,000",Working professional,Bachelor's degree,9.65,No,20000,Very confident,1,Yes,No,Yes,Weekly,Yes,Positively,Hybrid,4,Less than 1 hour,High salary,Yes,"Yes, anywhere"
+164,18-22,Female,"₹2,50,000–₹5,00,000",Working professional,Bachelor's degree,7.84,No,0,Neutral,2,Maybe,No,No,Monthly,Somewhat,Positively,Hybrid,2,Less than 1 hour,Learning opportunities,Yes,"Yes, anywhere"
+76,18-22,Male,"Less than ₹2,50,000",Currently studying,Bachelor's degree,6.5,yes,80000,Confident,5,No,yes,No,Rarely,Yes,Not sure,On-site,5,Less than 1 hour,High salary,Maybe,"Yes, Within my country"
+79,23-27,Female,"₹2,50,000–₹5,00,000",Currently studying,Bachelor's degree,7.0,yes,50000,Neutral,5,Maybe,No,No,Never,Somewhat,Not sure,On-site,1,1–5 hours,Work-life balance,Yes,No
